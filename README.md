@@ -18,4 +18,6 @@ It lists all the added records from the first feature.<br /><br />
 
 **_3)Exit_**
 
-This feature allows you to exit from particular module.
+This feature allows you to exit from particular module.<br /><br />
+
+<ins>**NOTE:**</ins> The default password to access this application is _**"pass"**_.
