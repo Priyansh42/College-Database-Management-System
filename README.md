@@ -1,4 +1,4 @@
-# Student-Database-Management-System
+# College-Database-Management-System
 
 It is a simple console based Application without GUI developed using C++.
 
