@@ -1,6 +1,6 @@
 # College-Database-Management-System
 
-It is a simple console based Application without GUI developed using C++.
+It is a console based Application without GUI developed using C++.
 
 It shows effective implementation of class and object of the programming language.
 
