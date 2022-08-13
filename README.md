@@ -6,9 +6,9 @@ It shows effective implementation of class and object of the programming languag
 
 It uses file to store the student's and faculty's information for future reference.<br /><br />
 
-## Other Contributors
+## Contributors
 
-[Manan Shah](https://github.com/Manan2606) | [Krish Shewani](https://github.com/krish-910) | [Gaurav Suthar](https://github.com/Gauravsuthar3)
+[Priyansh Shah](https://github.com/Priyansh42) ● [Manan Shah](https://github.com/Manan2606) ● [Krish Shewani](https://github.com/krish-910) ● [Gaurav Suthar](https://github.com/Gauravsuthar3)
 
 ## Overview
 
